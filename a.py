@@ -1,0 +1,7 @@
+"""
+Test file for linter
+"""
+
+def test_func():
+	print "This is a test function"
+
